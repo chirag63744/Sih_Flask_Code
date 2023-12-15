@@ -4,4 +4,3 @@ numpy
 Pillow
 tensorflow
 pyrebase
-google-cloud-storage
