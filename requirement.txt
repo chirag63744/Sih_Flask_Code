@@ -4,3 +4,4 @@ numpy
 Pillow
 tensorflow
 pyrebase4
+Gunicorn
