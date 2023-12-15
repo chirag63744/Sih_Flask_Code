@@ -3,4 +3,4 @@ requests
 numpy
 Pillow
 tensorflow
-pyrebase
+pyrebase4
